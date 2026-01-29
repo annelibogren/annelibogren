@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:243b55,100:141e30&text=Anneli%20Bogren&height=160&fontSize=62&fontColor=ffffff&desc=MSc%20Computer%20Science%20%40%20KTH&descAlign=50&descAlignY=72&descSize=20"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:f1e6ff,100:d8c2ff&text=Anneli%20Bogren&height=160&fontSize=62&fontColor=4b2e83&
+  desc=MSc%20Computer%20Science%20%40%20KTH&descAlign=50&descAlignY=72&descSize=20"/>
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/anneli-bogren-933624212/">
@@ -42,5 +43,5 @@ hobbies:
 - 🔭 Working on my thesis at Knightec Group, developing a sign language translation model for resource constrained edge devices
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:243b55,100:2c3e50&text=Thanks%20for%20visiting!&height=120&fontSize=42&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&color=0:f1e6ff,100:d8c2ff&text=Thanks%20for%20visiting!&height=120&fontSize=42&fontColor=4b2e83"/>
 </p>
