@@ -18,7 +18,7 @@
 ```yaml
 name: Anneli Bogren
 based_in: Stockholm, Sweden
-current_role: MSc Computer Science @ KTH
+current_role: Full-stack consultant @ HiQ
 
 education:
   - MSc Computer Science — KTH Royal Institute of Technology
@@ -36,10 +36,6 @@ hobbies:
   - Puzzles
   - Travelling
 ```
-
-<h2 align="left">✨ &nbsp;Right now</h2>
-
-- 🔭 Working on my thesis at Knightec Group, developing a sign language translation model for resource constrained edge devices
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=blur&color=0:f1e6ff,100:d8c2ff&text=Thanks!&height=110&fontSize=42&fontColor=4b2e83"/>
